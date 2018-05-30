@@ -1,2 +1,31 @@
 {% include css/bootstrap.min.css %}
 {% include css/grayscale.css %}
+
+.row {
+    clear: both;
+}
+
+.about-1x {
+    float: left;
+    width: 75px;
+}
+
+.about-2x {
+    float: left;
+    width: 150px;
+}
+
+.about-1x {
+    float: left;
+    width: 200px;
+}
+
+.about-1x {
+    float: left;
+    width: 300px;
+}
+
+.about-1x {
+    float: left;
+    width: 566px;
+}
