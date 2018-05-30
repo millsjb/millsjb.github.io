@@ -3,6 +3,8 @@
 
 .row {
     clear: both;
+    text-align: left;
+    padding-bottom: 20px;
 }
 
 .about-1x {
@@ -15,17 +17,17 @@
     width: 150px;
 }
 
-.about-1x {
+.about-3x {
     float: left;
     width: 200px;
 }
 
-.about-1x {
+.about-4x {
     float: left;
     width: 300px;
 }
 
-.about-1x {
+.about-5x {
     float: left;
     width: 566px;
 }
